@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
 import numpy as np
 import matplotlib.pyplot as plt
 """"
@@ -46,9 +43,6 @@ heart_y = list(map(lambda point: point["y"], points))
 
 plt.scatter(heart_x,heart_y,s=10,c=range(len(heart_x)),cmap= "spring",alpha=0.5)
 plt.show()
-
-
-# In[ ]:
 
 
 
