@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 
 #least squqre method
 import pylab
