@@ -2,7 +2,7 @@
 # Python
 
 ## Description
-This repository contains some codes in learing python programming.
+
 ### Author: Zforw Walker
   `using Anaconda 3,Jupter Notebook on Python 3 , MacOS Catalina 10.15`
   reCreated on July 23,2020
